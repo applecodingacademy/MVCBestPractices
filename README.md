@@ -7,3 +7,5 @@ Código creado en la Masterclass "MVC, Historia y Buenas Prácticas" emitido en 
 [Ver la Masterclass](https://www.twitch.tv/videos/966578691).
 
 **Suscríbete a nuestro canal** para apoyar que haya más contenido como este o **síguenos** para estar al día de nuevos directos de *coding* en directo.
+
+Las buenas prácticas de este ejemplo siguen las directrices dadas por la propia Apple a nivel de desarrollo.
